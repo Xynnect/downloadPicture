@@ -23,5 +23,6 @@ public class downloadPicture {
         FileOutputStream fos = new FileOutputStream("/home/zyan/IdeaProjects/Rectangle_.png");
         fos.write(response);
         fos.close();
+        //commit
     }
 }
